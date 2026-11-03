@@ -1,0 +1,8 @@
+Enter number of customers: 1
+
+Customer 1
+Enter customer name: Arun
+Enter units consumed: 350
+Customer Name : Arun
+Units : 350.0
+Bill Amount : Rs. 1000.0

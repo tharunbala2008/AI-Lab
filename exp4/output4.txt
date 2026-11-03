@@ -1,0 +1,6 @@
+Course Tuple: ('Python', 4)
+
+--- Records from CSV ---
+101 Anitha CSE 86
+102 Bala CSE 91
+103 Chitra ECE 78

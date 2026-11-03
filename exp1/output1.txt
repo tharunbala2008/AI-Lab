@@ -1,0 +1,14 @@
+Enter student name: Priya
+Enter number of subjects: 5
+Enter mark for Subject 1: 85
+Enter mark for Subject 2: 78
+Enter mark for Subject 3: 92
+Enter mark for Subject 4: 88
+Enter mark for Subject 5: 81
+
+--- Academic Performance ---
+Student Name : Priya
+Total Marks : 424.0
+Percentage : 84.8 %
+Grade : A
+Performance : Excellent
