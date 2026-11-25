@@ -1,0 +1,5 @@
+Topic: List Statistics
+Audience: Beginner Python student
+Task: Generate a function to find minimum, maximum and range.
+Requirements: Reject an empty list and return the three statistics.
+Approach: validate inputs, process data and present a clear result.

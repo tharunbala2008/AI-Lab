@@ -1,0 +1,5 @@
+Topic: Text Analysis
+Audience: Beginner Python student
+Task: Generate a function to count total and unique words.
+Requirements: Normalize case and remove punctuation before counting.
+Approach: validate inputs, process data and present a clear result.

@@ -1,0 +1,16 @@
+﻿Available concepts: Functions, Lists, Machine Learning, Neural Networks, Data Cleaning, Data Visualization
+
+Enter a topic or concept to study: Neural Networks
+----- PERSONALIZED STUDY NOTES -----
+Topic       : Artificial Intelligence
+Concept     : Neural Networks
+Explanation : A neural network is a computational model inspired by connected neurons. It contains layers of nodes that learn patterns through training.
+Match score : 100.0 %
+
+----- QUICK QUIZ -----
+Question    : What are the basic units in a neural network commonly called?
+Difficulty  : Medium
+Answer      : Nodes or neurons
+
+Study assistant session completed.
+Note: Matching is based on CSV keyword overlap, not a live Generative AI model.

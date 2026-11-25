@@ -1,0 +1,47 @@
+﻿--- Original Dataset ---
+      Name Department  Attendance  Mark
+0   Anitha        CSE        92.0  86.0
+1     Bala        CSE        85.0  91.0
+2   Chitra        ECE         NaN  78.0
+3   Dinesh        CSE        88.0   NaN
+4    Ezhil        ECE        95.0  95.0
+5  Fathima        CSE        90.0  82.0
+
+Missing Values:
+Name          0
+Department    0
+Attendance    1
+Mark          1
+dtype: int64
+
+--- Cleaned Dataset ---
+      Name Department  Attendance  Mark
+0   Anitha        CSE        92.0  86.0
+1     Bala        CSE        85.0  91.0
+2   Chitra        ECE        90.0  78.0
+3   Dinesh        CSE        88.0  86.4
+4    Ezhil        ECE        95.0  95.0
+5  Fathima        CSE        90.0  82.0
+
+--- Descriptive Statistics ---
+       Attendance      Mark
+count    6.000000   6.00000
+mean    90.000000  86.40000
+std      3.405877   6.08605
+min     85.000000  78.00000
+25%     88.500000  83.00000
+50%     90.000000  86.20000
+75%     91.500000  89.85000
+max     95.000000  95.00000
+
+--- Department-wise Average Marks ---
+Department
+CSE    86.35
+ECE    86.50
+Name: Mark, dtype: float64
+
+--- EDA Summary ---
+Highest Mark : 95.0
+Lowest Mark : 78.0
+Average Mark : 86.4
+Average Attendance : 90.0

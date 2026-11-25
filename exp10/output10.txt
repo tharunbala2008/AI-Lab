@@ -1,0 +1,37 @@
+﻿----- PROMPT DESIGN AND EVALUATION -----
+
+Prompt ID: P101 | Task: Explain photosynthesis
+Weak prompt score     : 1/5
+Improved prompt score : 5/5
+Satisfied features    : Role, Context, Clear task, Constraints, Output format
+Evaluation            : Improved
+
+Prompt ID: P102 | Task: Write a formal email
+Weak prompt score     : 0/5
+Improved prompt score : 5/5
+Satisfied features    : Role, Context, Clear task, Constraints, Output format
+Evaluation            : Improved
+
+Prompt ID: P103 | Task: Python debugging
+Weak prompt score     : 0/5
+Improved prompt score : 4/5
+Satisfied features    : Role, Clear task, Constraints, Output format
+Evaluation            : Improved
+
+Prompt ID: P104 | Task: Summarize a report
+Weak prompt score     : 1/5
+Improved prompt score : 5/5
+Satisfied features    : Role, Context, Clear task, Constraints, Output format
+Evaluation            : Improved
+
+Prompt ID: P105 | Task: Compare algorithms
+Weak prompt score     : 0/5
+Improved prompt score : 3/5
+Satisfied features    : Role, Clear task, Output format
+Evaluation            : Improved
+
+----- OVERALL SUMMARY -----
+Average weak prompt score    : 0.4
+Average improved prompt score: 4.4
+
+Evaluation completed. This is a rule-based prompt-quality checklist, not an LLM evaluation.

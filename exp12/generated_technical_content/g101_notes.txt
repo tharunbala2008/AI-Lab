@@ -1,0 +1,5 @@
+Topic: CSV Data Analysis
+Audience: Beginner Python student
+Task: Create a Python function to calculate the average of numeric values in a CSV column.
+Requirements: Validate the column, ignore missing values and round the average to two decimals.
+Approach: validate inputs, process data and present a clear result.

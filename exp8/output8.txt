@@ -1,0 +1,67 @@
+﻿----- ORIGINAL DATASET -----
+  Student_ID   Name  ...  Assignment_Score  Exam_Score
+0       S101  Aarav  ...              88.0        91.0
+1       S102   Diya  ...              76.0        82.0
+2       S103  Kavin  ...              81.0        79.0
+3       S104  Meera  ...              93.0        95.0
+4       S105  Arjun  ...              72.0        75.0
+
+[5 rows x 6 columns]
+
+Dataset Shape: (22, 6)
+
+----- MISSING VALUES -----
+Student_ID               0
+Name                     0
+Department               1
+Attendance_Percentage    3
+Assignment_Score         1
+Exam_Score               1
+dtype: int64
+
+Duplicate Records: 1
+
+----- CLEANED DATASET -----
+  Student_ID    Name Department  ...  Exam_Score  Average_Score Performance
+0       S101   Aarav        CSE  ...        91.0           89.5   Excellent
+1       S102    Diya        ECE  ...        82.0           79.0        Good
+2       S103   Kavin        CSE  ...        79.0           80.0        Good
+3       S104   Meera         IT  ...        95.0           94.0   Excellent
+4       S105   Arjun        ECE  ...        75.0           73.5        Good
+5       S106    Nila        CSE  ...        86.0           83.5        Good
+6       S107   Rohan         IT  ...        71.0           70.0     Average
+7       S108  Ishita        CSE  ...        83.0           86.5   Excellent
+8       S109  Vikram        ECE  ...        70.0           71.5        Good
+9       S110  Ananya         IT  ...        88.0           86.5   Excellent
+
+[10 rows x 8 columns]
+
+Cleaned Dataset Shape: (21, 8)
+
+----- STATISTICAL SUMMARY -----
+       Attendance_Percentage  Assignment_Score  Exam_Score  Average_Score
+count                  21.00             21.00       21.00          21.00
+mean                   84.24             80.81       83.05          81.93
+std                     7.34              8.15        8.10           7.98
+min                    67.00             68.00       70.00          70.00
+25%                    81.00             74.00       76.00          75.00
+50%                    85.00             81.00       83.00          81.50
+75%                    89.00             87.00       89.00          86.50
+max                    96.00             96.00       98.00          97.00
+
+----- DEPARTMENT-WISE AVERAGE -----
+Department
+CSE    84.78
+ECE    82.33
+IT     81.17
+Name: Exam_Score, dtype: float64
+
+----- PERFORMANCE DISTRIBUTION -----
+Performance
+Good                 11
+Excellent             8
+Average               2
+Needs Improvement     0
+Name: count, dtype: int64
+
+Data Cleaning and EDA Completed Successfully!

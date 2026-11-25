@@ -1,0 +1,5 @@
+Topic: Temperature Conversion
+Audience: Beginner Python student
+Task: Generate a function to convert Celsius to Fahrenheit.
+Requirements: Accept numeric input and use F = (C × 9/5) + 32.
+Approach: validate inputs, process data and present a clear result.

@@ -1,0 +1,44 @@
+﻿----- TECHNICAL CONTENT AND PYTHON PROGRAM GENERATION -----
+
+Task ID: G101 | Topic: CSV Data Analysis
+Topic: CSV Data Analysis
+Audience: Beginner Python student
+Task: Create a Python function to calculate the average of numeric values in a CSV column.
+Requirements: Validate the column, ignore missing values and round the average to two decimals.
+Approach: validate inputs, process data and present a clear result.
+Saved: g101.py and g101_notes.txt
+
+Task ID: G102 | Topic: Temperature Conversion
+Topic: Temperature Conversion
+Audience: Beginner Python student
+Task: Generate a function to convert Celsius to Fahrenheit.
+Requirements: Accept numeric input and use F = (C × 9/5) + 32.
+Approach: validate inputs, process data and present a clear result.
+Saved: g102.py and g102_notes.txt
+
+Task ID: G103 | Topic: Password Validation
+Topic: Password Validation
+Audience: Intermediate Python student
+Task: Generate a password-strength checker.
+Requirements: Check length, uppercase, lowercase, digit and special character.
+Approach: validate inputs, process data and present a clear result.
+Saved: g103.py and g103_notes.txt
+
+Task ID: G104 | Topic: List Statistics
+Topic: List Statistics
+Audience: Beginner Python student
+Task: Generate a function to find minimum, maximum and range.
+Requirements: Reject an empty list and return the three statistics.
+Approach: validate inputs, process data and present a clear result.
+Saved: g104.py and g104_notes.txt
+
+Task ID: G105 | Topic: Text Analysis
+Topic: Text Analysis
+Audience: Beginner Python student
+Task: Generate a function to count total and unique words.
+Requirements: Normalize case and remove punctuation before counting.
+Approach: validate inputs, process data and present a clear result.
+Saved: g105.py and g105_notes.txt
+
+Total generated files: 10
+Template-based generation completed. No external LLM is called.
